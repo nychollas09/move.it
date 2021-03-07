@@ -94,4 +94,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 Feito com :purple_heart: by [Nichollas Falcão](https://github.com/nychollas09)
 
 [![Linkedin Badge](https://img.shields.io/badge/Nichollas%20Falc%C3%A3o-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nichollas-falcao/)](https://www.linkedin.com/in/nichollas-falcao/)
-[![Gmail Badge](https://img.shields.io/badge/Nichollas%20Falc%C3%A3o-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nychollas2013@gmail.com](mailto:nychollas2013@gmail.com))
+[![Gmail Badge](https://img.shields.io/badge/Nichollas%20Falc%C3%A3o-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nychollas2013@gmail.com)](mailto:nychollas2013@gmail.com)
